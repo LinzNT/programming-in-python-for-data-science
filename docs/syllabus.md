@@ -14,7 +14,7 @@ You will leave this course capable of processing raw data into a format suitable
 - None
 
 ## Content
-We are using an interactive platform that contains have a series of slide decks accompanied with multiple choice questions and interactive coding exercises to apply what you learned during the module: [https://prog-learn.mds.ubc.ca/](https://prog-learn.mds.ubc.ca/)
+We are using an interactive platform that contains have a series of slide decks accompanied with multiple choice questions and interactive coding exercises to apply what you learned during the module: [https://ubc-mds.github.io/programming-in-python-for-data-science/](https://ubc-mds.github.io/programming-in-python-for-data-science/)
 
 ## Course Software Platforms
 Students will learn to write code and perform their analysis using the [Python Programming Language](https://www.python.org/doc/essays/blurb/). Assignments as well as the final project analysis will be done using [Jupyter Notebooks](http://jupyter.org/).
